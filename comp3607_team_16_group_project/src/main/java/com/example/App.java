@@ -41,7 +41,7 @@ public class App{
             //--------------------------------------------------------------------------------------------------------------
             // Set up input and output paths:
             //--------------------------------------------------------------------------------------------------------------
-            File assignmentFile = new File("input\\Javonte_Baldeo_816036030_A1.zip");//Define directory for input file.
+            File assignmentFile = new File("input\\Jane_Doe_816036030_A1.zip");//Define directory for input file.
             File outputDirectory = new File("output");//Create directory for output of reports.
             //--------------------------------------------------------------------------------------------------------------
 
