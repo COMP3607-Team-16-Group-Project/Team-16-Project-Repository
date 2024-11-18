@@ -10,7 +10,10 @@
 * __Course Name:__ Object-Oriented Programming II
 * __Course Code:__ COMP3607
 * __Assignment:__ COMP3607 Group Project
-* __Date:__ 11/11/2024
 
 ### __Sources:__
-* __Source #1:__ 
+* __Source #1:__ Reading from a zip file: https://stackoverflow.com/questions/13399448/read-directly-a-file-within-a-zip-file-java
+
+* __Source #2:__ Reading from a file: https://www.baeldung.com/reading-file-in-java
+
+* __Source #3:__ Creating and writing to a PDF File: https://www.baeldung.com/java-pdf-creation
